@@ -115,6 +115,7 @@ And, this is the dashboard of graphite.
 **Step-3:** Click on connection option.
 
 ![Alt text](connection.png)
+
 Here you will get interface like this:
 
 ![Alt text](<Screenshot from 2023-09-22 16-07-54.png>)
