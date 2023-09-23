@@ -80,13 +80,15 @@ podman ps -a
 ```
 ![Alt text](<Screenshot from 2023-09-22 12-18-00.png>)
 
+This command is used to see all containers on your system, both running and stopped.
+
 ##### 6. Go to the web interface.
 
-type **localhost:3002** for grafana's dashboard and  **localhost:8082** for graphite dashboard.
+Type **localhost:3002** for grafana's dashboard and  **localhost:8082** for graphite dashboard.
 
 Then you will get grafana's dashboard and there you can put username and password.
 
-**admin** is the default username and password and after that login grafana dashboard will come.
+ The default username and password is **admin** and after that login grafana dashboard will come.
 
 
 
